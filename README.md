@@ -1,5 +1,12 @@
-# About Me :man_technologist:
-:dart: MERN Stack Developer.<br>:people_holding_hands: Looking to Collaborate on Open Source Projects. <br>:mailbox_with_mail: Reach Me at nklharis@gmail.com
+# Hi 👋, I'm Haris
+<h3>About Me</h3>
+:man_technologist: MERN Stack Developer <br>:people_holding_hands: Looking to Collaborate on Open Source Projects. <br>:mailbox_with_mail: Reach me at nklharis@gmail.com
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/haristiks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haristiks" height="30" width="40" /></a>
+<a href="https://instagram.com/haristiks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haristiks" height="30" width="40" /></a>
+
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haristiks/) 
 
