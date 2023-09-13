@@ -1,6 +1,6 @@
 # Hi 👋, I'm Haris
 <h3>About Me</h3>
-:man_technologist: MERN Stack Developer <br>:people_holding_hands: Looking to Collaborate on Open Source Projects. <br>:mailbox_with_mail: Reach me at **nklharis@gmail.com**
+:man_technologist: MERN Stack Developer <br>:people_holding_hands: Looking to Collaborate on Open Source Projects. <br>:mailbox_with_mail: Reach me at nklharis@gmail.com
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/haristiks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="haristiks" height="30" width="40" /></a>
